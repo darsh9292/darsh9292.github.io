@@ -1,0 +1,14 @@
+.list-unstyled-icons .inline-icon{
+    margin-top: 4px;
+}
+
+.padding-v-60{
+    padding-bottom: 0px; 
+}
+.bg-custom{
+    background-color: rgba(25, 204, 179, 0.32);
+}
+
+a.text-primary:focus, a.text-primary:hover{
+    color: #caa669 ;
+}
